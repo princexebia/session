@@ -1,3 +1,6 @@
 Hi i am here for reverting
+<<<<<<< HEAD
 2
 3
+=======
+>>>>>>> parent of bf78f00... File to revert 2
